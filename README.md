@@ -1,6 +1,6 @@
 # Simple Chat using Django Channels
 
-This project was created following Django Channels official (documentation)[https://channels.readthedocs.io/en/latest/tutorial/index.html].
+This project was created following Django Channels official [documentation](https://channels.readthedocs.io/en/latest/tutorial/index.html).
 
 ## Steps to run this project:
 - Create a virtualenv: `mkvirtualenv simple-chat`
