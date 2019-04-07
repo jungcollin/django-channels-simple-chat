@@ -1,0 +1,4 @@
+Django==2.2
+channels==2.1.7
+channels-redis==2.3.3
+selenium==3.141.0
